@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Health",
+  "description": "Health management app for office workers focusing on sedentary lifestyle, eye fatigue, and posture.",
+  "requestFramePermissions": ["camera", "notifications"]
+}
